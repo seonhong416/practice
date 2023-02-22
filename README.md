@@ -40,5 +40,10 @@ if number == 0 :
 ```
 ***
 링크삽입
-<https://
+
+<https://github.com/seonhong416>
+
+[내깃허브](https://github.com/seonhong416)
+
+[구글](https://goole.com, '검색 사이트')
 ***
